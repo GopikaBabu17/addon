@@ -1,0 +1,11 @@
+.flex-container{
+    background: lightgray;
+    column-rule-color: white;
+    column-count: 4;
+    column-gap: 40px;
+}
+.d1{
+    width: 300px;
+  height: 100px;
+  color: white;
+}
